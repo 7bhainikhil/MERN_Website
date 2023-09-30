@@ -1,15 +1,15 @@
 import React from 'react';
 import './App.css';
 import { Routes, Route } from 'react-router-dom';
-import Nav from './components/Nav';
-import Home from './components/Home';
-import Signup from './components/Signup';
-import Profile from './components/Event';
-import Login from './components/Login';
-import Service from './components/Service'
-import Contact from './components/Contact';
-import About from './components/About'
-import Reviews from './components/Reviews';
+import Nav from './component/Nav';
+import Home from './component/Home';
+import Signup from './component/Signup';
+import Profile from './component/Event';
+import Login from './component/Login';
+import Service from './component/Service'
+import Contact from './component/Contact';
+import About from './component/About'
+import Reviews from './component/Reviews';
 
 function App() {
   return (
